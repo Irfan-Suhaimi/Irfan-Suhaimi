@@ -1,13 +1,18 @@
 <h1 align="center">Hi there👋, I'm Irfan</h1>
 <h3 align="center">I try my best to understand and be good in what I am doing</h3>
+<p  align="center"> <a <img src="https://images.app.goo.gl/q6cKZk7sSrH1St6n7" alt="credit image on Instagram by @maykomay" width="40" height="40"/> </a> </p>
 
 - 🔭 I’m currently working on **Inventory Managament System for HRPB**
 
-- 🌱 I’m currently learning **web development.**
+- 🌱 I’m currently learning **web development and wanting to upskill my knowledge.**
 
-- 📫 How to reach me **mirfan.asuhaimi@gmail.com**
+- 📫 Reach me via my email **mirfan.asuhaimi@gmail.com**
+
+- 📫 Or connect with me at LinkedIn **mirfan.asuhaimi@gmail.com**
 
 - ⚡ Fun fact **I am a introverted person. Please do chat with me first. LOL**
+
+- ⚡ Fun fact **I also LOVE BLACKPINK the Kpop group so so so muchhhhh hahahahhahaha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
