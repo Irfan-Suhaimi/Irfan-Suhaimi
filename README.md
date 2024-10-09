@@ -2,11 +2,13 @@
 <h3 align="center">I try my best to understand and be good in what I am doing</h3>
 <p  align="center"> <a <img src="https://images.app.goo.gl/q6cKZk7sSrH1St6n7"/> </a> </p>
 
-- 🔭 I’m currently working on **Inventory Managament System for HRPB**
+- 🔭 I’m currently working at **Millennium Radius Sdn Bhd** and will be working on some project.
 
 - 🌱 I’m currently learning **web development and wanting to upskill my knowledge.**
 
 - 📫 Reach me via my email **mirfan.asuhaimi@gmail.com**
+
+- 📫 Or reach me via my work email **m.irfan@milradius.com.my**
 
 - 📫 Or connect with me at LinkedIn **mirfan.asuhaimi@gmail.com**
 
